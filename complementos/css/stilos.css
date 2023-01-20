@@ -81,3 +81,10 @@ footer {
     background-color: brown;
     text-align: center;
 }
+summary {
+    list-style: none;
+}
+#info-producto {
+    text-align: justify;
+    width: 350px;
+}
